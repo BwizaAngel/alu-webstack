@@ -1,4 +1,5 @@
-cript to config domain zone to point to load balancer
+#!/usr/bin/env bash
+# script to config domain zone to point to load balancer
 # add more subdomains and display info about them
 
 domain=$1
